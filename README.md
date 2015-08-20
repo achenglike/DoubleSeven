@@ -5,3 +5,4 @@
 心的画法参考了：</br>
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes#Cubic_Bezier_curves </br>
 ![image](https://github.com/achenglike/DoubleSeven/raw/master/pics/20150820161749.jpg)
+![image](https://github.com/achenglike/DoubleSeven/raw/master/pics/GIF.gif)
