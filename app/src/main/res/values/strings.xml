@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DoubleSeven</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="start">开始么么哒</string>
+    <string name="end">关闭么么哒</string>
+</resources>
